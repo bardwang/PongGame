@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/JavaSE-1.6"/>
+	<classpathentry kind="lib" path="E:/EclipseJars/colors.jar"/>
+	<classpathentry kind="lib" path="E:/EclipseJars/geometry.jar"/>
+	<classpathentry kind="lib" path="E:/EclipseJars/isdraw.jar"/>
+	<classpathentry kind="lib" path="E:/EclipseJars/tester.jar"/>
+	<classpathentry kind="lib" path="E:/EclipseJars/tunes.jar"/>
+	<classpathentry kind="lib" path="E:/EclipseJars/jpt.jar"/>
+	<classpathentry kind="lib" path="E:/EclipseJars/idraw.jar"/>
+	<classpathentry kind="lib" path="D:/workspace/person/asdraw.jar"/>
+	<classpathentry kind="lib" path="D:/workspace/person/colors.jar"/>
+	<classpathentry kind="lib" path="D:/workspace/person/draw.jar"/>
+	<classpathentry kind="lib" path="D:/workspace/person/funjava.jar"/>
+	<classpathentry kind="lib" path="D:/workspace/person/geometry.jar"/>
+	<classpathentry kind="lib" path="D:/workspace/person/idraw.jar"/>
+	<classpathentry kind="lib" path="D:/workspace/person/isdraw.jar"/>
+	<classpathentry kind="lib" path="D:/workspace/person/jpt.jar"/>
+	<classpathentry kind="lib" path="D:/workspace/person/mysql-connector-java-5.1.15-bin.jar"/>
+	<classpathentry kind="lib" path="D:/workspace/person/sorting.jar"/>
+	<classpathentry kind="lib" path="D:/workspace/person/tester.jar"/>
+	<classpathentry kind="lib" path="D:/workspace/person/tunes.jar"/>
+	<classpathentry kind="lib" path="D:/Study/EclipseJars/colors.jar"/>
+	<classpathentry kind="lib" path="D:/Study/EclipseJars/draw.jar"/>
+	<classpathentry kind="lib" path="D:/Study/EclipseJars/geometry.jar"/>
+	<classpathentry kind="lib" path="D:/Study/EclipseJars/idraw.jar"/>
+	<classpathentry kind="lib" path="D:/Study/EclipseJars/tester.jar"/>
+	<classpathentry kind="lib" path="D:/Study/EclipseJars/tunes.jar"/>
+	<classpathentry kind="lib" path="D:/Study/EclipseJars/isdraw.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
